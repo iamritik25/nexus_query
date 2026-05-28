@@ -3,7 +3,7 @@ from core.connection_manager import test_new_connection, add_connection
 config = {
     "host": "localhost",
     "port": 5432,
-    "username": "ayonaryan",
+    "username": "subrat25@kumar",
     "password": "",
     "database": "chinook"
 }
